@@ -1,0 +1,1 @@
+locust -f load_test.py --host http://localhost:3000  
